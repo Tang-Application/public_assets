@@ -1,83 +1,80 @@
 {
-    "version": "1.0.0",
-    "cards": {
-      "christmas": {
-        "value": "🎄",
-        "url": "https://cdn.statically.io/gh/Tang-Application/public_assets/efca75f0/cards/christmas.svg",
-        "props": {
-          "type": "text",
-          "color": "#B6DEFC",
-          "disabled": true
-        },
-        "id": 0
-      },
-      "fireworks": {
-        "value": "🎇",
-        "url": "https://cdn.statically.io/gh/Tang-Application/public_assets/efca75f0/cards/fireworks.svg",
-        "props": {
-          "type": "text",
-          "color": "#FFEBB2"
-        },
-        "id": 1
-      },
-      "pastry": {
-        "value": "🍰",
-        "url": "https://cdn.statically.io/gh/Tang-Application/public_assets/efca75f0/cards/pastry.svg",
-        "props": {
-          "type": "text",
-          "color": "#E87461"
-        },
-        "id": 2
-      },
-      "heart": {
-        "value": "💙",
-        "url": "https://cdn.statically.io/gh/Tang-Application/public_assets/efca75f0/cards/heart.svg",
-        "props": {
-          "type": "text",
-          "color": "#FFEBB2"
-        },
-        "id": 3
-      },
-      "like": {
-        "value": "👍",
-        "url": "https://cdn.statically.io/gh/Tang-Application/public_assets/efca75f0/cards/congratulations.svg",
-        "props": {
-          "type": "text",
-          "color": "#DAC4FC"
-        },
-        "id": 4
-      },
-      "cake": {
-        "value": "🎂",
-        "url": "https://cdn.statically.io/gh/Tang-Application/public_assets/efca75f0/cards/birthday.svg",
-        "props": {
-          "type": "text",
-          "color": "#A5FBF1"
-        },
-        "id": 5
-      },
-      "love": {
-        "value": "🥰",
-        "url": "https://cdn.statically.io/gh/Tang-Application/public_assets/efca75f0/cards/anniversary.svg",
-        "props": {
-          "type": "text",
-          "color": "#F9B8E0"
-        },
-        "id": 6
-      },
-      "party": {
-        "value": "🎉",
-        "props": {
-          "type": "text"
-        },
-        "id": 7
-      },
-      "gift": {
-        "value": "🎁",
-        "props": {
-          "type": "text"
-        },
-        "id": 8
-      }
-    }
+  "christmas": {
+    "value": "🎄",
+    "url": "https://cdn.statically.io/gh/Tang-Application/public_assets/efca75f0/cards/christmas.svg",
+    "props": {
+      "type": "text",
+      "color": "#B6DEFC",
+      "disabled": true
+    },
+    "id": 0
+  },
+  "fireworks": {
+    "value": "🎇",
+    "url": "https://cdn.statically.io/gh/Tang-Application/public_assets/efca75f0/cards/fireworks.svg",
+    "props": {
+      "type": "text",
+      "color": "#FFEBB2"
+    },
+    "id": 1
+  },
+  "pastry": {
+    "value": "🍰",
+    "url": "https://cdn.statically.io/gh/Tang-Application/public_assets/efca75f0/cards/pastry.svg",
+    "props": {
+      "type": "text",
+      "color": "#E87461"
+    },
+    "id": 2
+  },
+  "heart": {
+    "value": "💙",
+    "url": "https://cdn.statically.io/gh/Tang-Application/public_assets/efca75f0/cards/heart.svg",
+    "props": {
+      "type": "text",
+      "color": "#FFEBB2"
+    },
+    "id": 3
+  },
+  "like": {
+    "value": "👍",
+    "url": "https://cdn.statically.io/gh/Tang-Application/public_assets/efca75f0/cards/congratulations.svg",
+    "props": {
+      "type": "text",
+      "color": "#DAC4FC"
+    },
+    "id": 4
+  },
+  "cake": {
+    "value": "🎂",
+    "url": "https://cdn.statically.io/gh/Tang-Application/public_assets/efca75f0/cards/birthday.svg",
+    "props": {
+      "type": "text",
+      "color": "#A5FBF1"
+    },
+    "id": 5
+  },
+  "love": {
+    "value": "🥰",
+    "url": "https://cdn.statically.io/gh/Tang-Application/public_assets/efca75f0/cards/anniversary.svg",
+    "props": {
+      "type": "text",
+      "color": "#F9B8E0"
+    },
+    "id": 6
+  },
+  "party": {
+    "value": "🎉",
+    "props": {
+      "type": "text"
+    },
+    "id": 7
+  },
+  "gift": {
+    "value": "🎁",
+    "props": {
+      "type": "text"
+    },
+    "id": 8
   }
+}
