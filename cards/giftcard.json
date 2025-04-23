@@ -9,6 +9,15 @@
     },
     "id": 0
   },
+  "pastry": {
+    "value": "🍰",
+    "url": "https://cdn.statically.io/gh/Tang-Application/public_assets/efca75f0/cards/pastry.svg",
+    "props": {
+      "type": "text",
+      "color": "#E87461"
+    },
+    "id": 2
+  },
   "heart": {
     "value": "💙",
     "url": "https://cdn.statically.io/gh/Tang-Application/public_assets/efca75f0/cards/heart.svg",
