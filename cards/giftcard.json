@@ -9,15 +9,6 @@
     },
     "id": 0
   },
-  "fireworks": {
-    "value": "🎇",
-    "url": "https://cdn.statically.io/gh/Tang-Application/public_assets/efca75f0/cards/fireworks.svg",
-    "props": {
-      "type": "text",
-      "color": "#FFEBB2"
-    },
-    "id": 1
-  },
   "pastry": {
     "value": "🍰",
     "url": "https://cdn.statically.io/gh/Tang-Application/public_assets/efca75f0/cards/pastry.svg",
