@@ -1,0 +1,8 @@
+{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.tangapp.payments",
+    "sha256_cert_fingerprints": ["0C:15:E6:A5:93:1E:16:57:E4:02:43:B4:25:70:3B:35:90:41:D4:FA:76:9A:1C:28:15:F7:6F:09:B0:59:CD:5E"]
+  }
+}
